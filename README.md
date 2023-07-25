@@ -1,8 +1,9 @@
+# Hi and welcome to my profile, find out more about me 😀
+
 ## About me
 
 <!-- TO DO: add more details about me later -->
-
-Hi, I'm Hamid😻. I am currently a student at Coding Bootcamps Europe.
+I'm Hamid😻. I am currently a student at Coding Bootcamps Europe.
 
 <details>
   <summary>My top languages</summary>
@@ -10,10 +11,14 @@ Hi, I'm Hamid😻. I am currently a student at Coding Bootcamps Europe.
   | Rang | Languages | 
 |-----:|---------------| 
 |     1|  HTML
-|     2|   Css
+|     2|   CSS
 |     3|   JavaScript
 |     4|   Vue
+|     5|   SQL
 </details>
+
+## My favorite tools
+ - VSCode
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
