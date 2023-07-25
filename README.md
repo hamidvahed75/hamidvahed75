@@ -2,13 +2,16 @@
 
 Hi, I'm Hamid. I am currently a student at coding bootcamp eu.
 
-| Rang | Sprachen | 
+<details>
+  <summary>My top languages</summary>
+
+  | Rang | Languages | 
 |-----:|---------------| 
 |     1|  HTML
 |     2|   Css
 |     3|   JavaScript
 |     4|   Vue
-
+</details>
 
 
 <picture>
