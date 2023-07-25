@@ -16,6 +16,7 @@ Hi, I'm Hamid. I am currently a student at coding bootcamp eu.
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
+— Hamid
 
 
 <picture>
