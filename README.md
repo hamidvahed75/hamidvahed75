@@ -1,5 +1,7 @@
 ## About me
 
+<!-- TO DO: add more details about me later -->
+
 Hi, I'm Hamid. I am currently a student at coding bootcamp eu.
 
 <details>
