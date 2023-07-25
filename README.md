@@ -2,7 +2,7 @@
 
 <!-- TO DO: add more details about me later -->
 
-Hi, I'm Hamid. I am currently a student at coding bootcamp eu.
+Hi, I'm Hamid😻. I am currently a student at Coding Bootcamps Europe.
 
 <details>
   <summary>My top languages</summary>
