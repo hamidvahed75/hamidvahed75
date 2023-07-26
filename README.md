@@ -17,7 +17,7 @@ I'm Hamid😻. I am currently a student at Coding Bootcamps Europe.
 |     5|   SQL
 </details>
 
-## My favorite tools
+## My favorite IDE
  - VSCode
 
 ---
